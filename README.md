@@ -8,8 +8,10 @@ Because my commercial R&D work is protected under company IP, I use this GitHub 
 
 ### Prototype: Vertical Farming Robot
 
+<img width="770" height="734" alt="Vertical Farming Robot_CAD" src="https://github.com/user-attachments/assets/59734050-4724-4253-80cd-69f381f4df1a" />
+
 <img width="350" alt="Vertical Farming Robot Front View" src="https://github.com/user-attachments/assets/7ddc60e4-c8ab-486f-8d7e-35f431ac1b9f" />
-<img width="350" alt="Vertical Farming Robot Side View" src="https://github.com/user-attachments/assets/5c2462d7-7205-4f5e-a38b-c65923b61378" />
+
 
 https://github.com/user-attachments/assets/2a19eaca-ae98-4e19-a507-34c2626bc4b5
 

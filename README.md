@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Robin 👋
 
-<!--
-**robinjacobrj97-web/robinjacobrj97-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Design Engineer** with 6 years of R&D experience across product development in medical devices and consumer appliances.
 
-Here are some ideas to get you started:
+Because my commercial R&D work is protected under company IP, I use this GitHub to share personal prototypes, mechanisms, and engineering experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Prototype: Vertical Farming Robot
+
+<img width="350" alt="Vertical Farming Robot Front View" src="https://github.com/user-attachments/assets/7ddc60e4-c8ab-486f-8d7e-35f431ac1b9f" />
+<img width="350" alt="Vertical Farming Robot Side View" src="https://github.com/user-attachments/assets/5c2462d7-7205-4f5e-a38b-c65923b61378" />
+
+https://github.com/user-attachments/assets/2a19eaca-ae98-4e19-a507-34c2626bc4b5
+
+* **Goal:** Design and build a first prototype of a robot capable of detecting and removing spoiled leaves on a lettuce plant in a vertical farm.
+* **Design & Manufacturing:** Designed the system using Autodesk Fusion 360. Frame built from standard aluminum extrusions; most functional parts 3D-printed for rapid prototyping. Integrated a camera-based vision system with a custom end-effector to locate and remove spoiled leaves.
+* **Results:** Functional prototype developed, successfully detecting and removing spoiled leaves.
+
+---
+
+### Core Engineering Toolkit
+* **CAD & Simulation:** SolidWorks, PTC Creo, Siemens NX, Fusion 360, Blender, FEA
+* **Design & Quality:** DFM / DFA / DFS, GD&T, Tolerance Stack-Up Analysis, DFMEA, Six Sigma Green Belt
+* **Prototyping:** FDM & SLA 3D Printing, Functional & Mechanical Testing
